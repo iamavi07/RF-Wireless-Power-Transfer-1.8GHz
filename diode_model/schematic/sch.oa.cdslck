@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      PG Comm Lab
+HostName                       DESKTOP-NK8UNRP
+ProcessIdentifier              11484
+ProcessCreationTime_UTC        1764819558
+ProcessCreationTime_Readable   12/04/25 09:09:18 India Standard Time
+AppIdentifier                  OA File System Design Manager
+OSType                         win32
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         C:\rf_project_cen_wrk\rf_project_cen_lib\diode_model\schematic\sch.oa.cdslck
+TimeEditLocked                 12/04/25 09:12:30 India Standard Time
